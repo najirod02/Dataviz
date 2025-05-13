@@ -16,6 +16,10 @@ The repository contains all proposed solutions for the laboratory exercises comp
 
 - Ggplot
 
+- Dimensionality reduction
+
+- Geospatial mapping
+
 ## Lessons content
 
 Here is a more detailed list of the topics covered in each lab:
@@ -82,6 +86,19 @@ Here is a more detailed list of the topics covered in each lab:
     - saving plots
     - distributions plotting (density, reference lines)
     - faceting
+
+- Lab 10a: Dimensionality reduction
+    - PCA
+    - t-SNE
+    - UMAP
+
+- Lab 10b: Geospatial mapping
+    - GeoJSON
+    - Geopandas
+    - Plotly
+    - Folium
+
+- Lab 11: Bokeh: quick summary
 
 ## Assignments
 
