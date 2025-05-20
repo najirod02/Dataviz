@@ -20,6 +20,8 @@ The repository contains all proposed solutions for the laboratory exercises comp
 
 - Geospatial mapping
 
+- Bokeh
+
 ## Lessons content
 
 Here is a more detailed list of the topics covered in each lab:
