@@ -112,6 +112,13 @@ Each notebook includes exercises to test understanding of the topics covered.
 For Inkscape (Lab 3), since there is no dedicated notebook, a folder named `inkscape` contains the original plots showed during the lecture.
 In particular, in the `output-svg` folder it is possible to visualize the first version (`before_lab03.png`) and the final version (`lab03.png`) which has been generated for the assignment.
 
+## Installation
+Given the amount of modules needed for each notebook, a `requirements.txt` has been generated so that it can be used to install directly all the modules needed, simply type in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
 # Authors
 
 Dorijan Di Zepp dorijan.dizepp@studenti.unitn.it
