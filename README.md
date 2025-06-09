@@ -95,8 +95,8 @@ Here is a more detailed list of the topics covered in each lab:
     - UMAP
 
 - Lab 10b: Geospatial mapping
-    - GeoJSON
     - Geopandas
+    - Geoplot
     - Plotly
     - Folium
 
