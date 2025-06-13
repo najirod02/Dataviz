@@ -116,6 +116,10 @@ In particular, in the `output-svg` folder it is possible to visualize the first 
 
 The folder `Practice_exam` contains an example of exam, which is given as a notebook file. All instructions are already written on it.
 
+## Exam
+
+The folder `Exam` contains the exam of 12/06, which is given as a notebook file. All instructions are already written on it.
+
 ## Installation
 Given the amount of modules needed for each notebook, a `requirements.txt` has been generated so that it can be used to install directly all the modules needed, simply type in your terminal:
 
